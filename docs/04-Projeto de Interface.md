@@ -130,6 +130,45 @@ Após pesquisar vagas, o usuário pode se candidatar clicando sobra a vaga desej
 
 <p align = "center">Fonte: Elaborado pelos autores</p>
 
+### Tela - Vagas candidatas  (Usuário padrão)
+
+A tela de vagas candidatadas permite ao usuário, que veja as vagas em que ele se candidatou. Como na Figura 10.
+
+<p align = "center">Figura 10 - Vagas candidatadas</p>
+
+<div align = "center">
+
+<img src=""  width="800" title="flowchart">
+</div>
+
+<p align = "center">Fonte: Elaborado pelos autores</p>
+
+### Tela - Vagas Salvas (Usuário padrão)
+
+A tela de permite ao usuário veja as vagas que ele salvou. Como na Figura 11.
+
+<p align = "center">Figura 11 - Vagas candidatadas</p>
+
+<div align = "center">
+
+<img src=""  width="800" title="flowchart">
+</div>
+
+<p align = "center">Fonte: Elaborado pelos autores</p>
+
+### Tela - Meu currículo  (Usuário padrão)
+
+A tela Meu currículo permite ao usuário, que crie seu currículo preenchendo os campos do formulário conforme solicitado e clicando em Salvar. Como na figura 12.
+
+<p align = "center">Figura 12 - Vagas candidatadas</p>
+
+<div align = "center">
+
+<img src=""  width="800" title="flowchart">
+</div>
+
+<p align = "center">Fonte: Elaborado pelos autores</p>
+
 
 
 
