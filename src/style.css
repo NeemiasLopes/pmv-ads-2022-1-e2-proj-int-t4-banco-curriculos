@@ -1,0 +1,57 @@
+body{ 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+;   
+    ;
+    background-color: #1b191a;
+}
+div[id=Img]{
+    position: absolute;
+    top: 12%;
+    left: 5%;
+}
+div[id=bloco] {
+    background-color: rgba(0, 0, 0, 0.4);
+    position: absolute;
+    top: 10%;
+    left: 70%;
+    padding: 80px;
+    border-radius: 8px;
+    color: white;
+    }
+input{
+    padding: 15px ; 
+    border-radius: 8px; 
+    outline: none;   
+}
+button{
+    background-color: dodgerblue;
+    border: none;
+    padding: 15px;
+    width: 100%;
+    border-radius: 10px;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: deepskyblue;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    left: 30%;
+    text-decoration: underline;
+    text-align: center;
+
+
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    left: 30%;
+    text-align: center;         
+}
+Cadastre-se{
+    text-decoration: underline;
+}
+img{ top: 22%;}
